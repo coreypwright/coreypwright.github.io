@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Corey&#39;s Captions</title>
+    <link>https://coreypwright.github.io/</link>
+    <description>Recent content on Corey&#39;s Captions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Mar 2020 13:05:29 +0600</lastBuildDate>
+    
+	<atom:link href="https://coreypwright.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>John Doe</title>
+      <link>https://coreypwright.github.io/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://coreypwright.github.io/author/john-doe/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
+    </item>
+    
+    <item>
+      <title>Mark Dinn</title>
+      <link>https://coreypwright.github.io/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://coreypwright.github.io/author/mark-dinn/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
+    </item>
+    
+  </channel>
+</rss>
