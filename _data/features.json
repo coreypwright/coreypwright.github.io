@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Free demo",
+    "description": "New clients may request a demo of TypeWell captioning",
+    "image": {
+      "url": "images/features/demo-674987.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Transcripts",
+    "description": "Full copies of transcripts are provided at no additional cost",
+    "image": {
+      "url": "images/features/paper.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "99% accuracy",
+    "description": "Accuracy and quality is guaranteed, or your money back",
+    "image": {
+      "url": "images/features/check.png",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
